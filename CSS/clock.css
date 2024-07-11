@@ -1,0 +1,21 @@
+.container-clock {
+    text-align: left;
+    ;
+}
+
+.container-clock h1 {
+    color: rgb(221, 170, 0);
+    font-size: 50px;
+    background-color: #2a3c69;
+    font-weight: 800;
+
+}
+
+.container-clock p {
+    font-size: 30px;
+    color: rgb(6, 156, 136);
+    background-color: #2a3c69;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
